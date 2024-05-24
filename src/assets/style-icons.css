@@ -1,0 +1,341 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?aezwpp');
+  src:  url('fonts/icomoon.eot?aezwpp#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?aezwpp') format('truetype'),
+    url('fonts/icomoon.woff?aezwpp') format('woff'),
+    url('fonts/icomoon.svg?aezwpp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-calendar-days-solid-1:before {
+  content: "\e900";
+  color: #fff;
+}
+.icon-fa-eye-slash:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-fa-eye:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-fa-arrow-right-from-bracket:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-fa-address-card:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-fa-file1:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-fa-gear1:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-folder-open-solid-1:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-fa-diagram-project:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-fa-diagram:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-Vector-3:before {
+  content: "\e90a";
+  color: #fff;
+}
+.icon-fa-vector:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-fa-lock1:before {
+  content: "\e90c";
+  color: #3860f1;
+}
+.icon-Vector-1:before {
+  content: "\e90d";
+  color: #3860f1;
+}
+.icon-Vector:before {
+  content: "\e90e";
+  color: #3860f1;
+}
+.icon-paper-plane-solid-1:before {
+  content: "\e90f";
+  color: #3860f1;
+}
+.icon-bars-solid-1:before {
+  content: "\e910";
+  color: #fff;
+}
+.icon-fa-arrow-right-arrow-left:before {
+  content: "\e911";
+}
+.icon-fa-arrow-right-to-bracket:before {
+  content: "\e912";
+}
+.icon-fa-arrows-rotate:before {
+  content: "\e913";
+}
+.icon-fa-arrows-spin:before {
+  content: "\e914";
+}
+.icon-fa-arrow-trend-up:before {
+  content: "\e915";
+}
+.icon-fa-arrow-turn-down:before {
+  content: "\e916";
+}
+.icon-fa-box-open:before {
+  content: "\e917";
+}
+.icon-fa-box:before {
+  content: "\e918";
+}
+.icon-fa-calculator:before {
+  content: "\e919";
+}
+.icon-fa-calendar-days:before {
+  content: "\e91a";
+}
+.icon-fa-camera:before {
+  content: "\e91b";
+}
+.icon-fa-chart-column:before {
+  content: "\e91c";
+}
+.icon-fa-chart-line:before {
+  content: "\e91d";
+}
+.icon-fa-chart-simple:before {
+  content: "\e91e";
+}
+.icon-fa-circle-check:before {
+  content: "\e91f";
+}
+.icon-fa-circle-exclamation:before {
+  content: "\e920";
+}
+.icon-fa-clipboard-list:before {
+  content: "\e921";
+}
+.icon-fa-clipboard-question:before {
+  content: "\e922";
+}
+.icon-fa-clock:before {
+  content: "\e923";
+}
+.icon-fa-coins:before {
+  content: "\e924";
+}
+.icon-fa-comments-dollar:before {
+  content: "\e925";
+}
+.icon-fa-comments:before {
+  content: "\e926";
+}
+.icon-fa-display:before {
+  content: "\e927";
+}
+.icon-fa-ellipsis-vertical:before {
+  content: "\e928";
+}
+.icon-fa-file-circle-check:before {
+  content: "\e929";
+}
+.icon-fa-file-lines:before {
+  content: "\e92a";
+}
+.icon-fa-file-pen:before {
+  content: "\e92b";
+}
+.icon-fa-file:before {
+  content: "\e92c";
+}
+.icon-fa-folder-closed:before {
+  content: "\e92d";
+}
+.icon-fa-folder-open:before {
+  content: "\e92e";
+}
+.icon-fa-gavel:before {
+  content: "\e92f";
+}
+.icon-fa-gear:before {
+  content: "\e930";
+}
+.icon-fa-gears:before {
+  content: "\e931";
+}
+.icon-fa-hand-holding-hand:before {
+  content: "\e932";
+}
+.icon-fa-hand-holding-medical:before {
+  content: "\e933";
+}
+.icon-fa-hand-holding:before {
+  content: "\e934";
+}
+.icon-fa-house:before {
+  content: "\e935";
+}
+.icon-fa-landmark-dome:before {
+  content: "\e936";
+}
+.icon-fa-layer-group:before {
+  content: "\e937";
+}
+.icon-fa-lock:before {
+  content: "\e938";
+}
+.icon-fa-magnifying-glass:before {
+  content: "\e939";
+}
+.icon-fa-money-bill-transfer:before {
+  content: "\e93a";
+}
+.icon-fa-person-cane:before {
+  content: "\e93b";
+}
+.icon-fa-repeat:before {
+  content: "\e93c";
+}
+.icon-fa-right-to-bracket:before {
+  content: "\e93d";
+}
+.icon-fa-scale-balanced:before {
+  content: "\e93e";
+}
+.icon-fa-screwdriver-wrench:before {
+  content: "\e93f";
+}
+.icon-fa-square-poll-vertical:before {
+  content: "\e940";
+}
+.icon-fa-table-list:before {
+  content: "\e941";
+}
+.icon-fa-user-gear:before {
+  content: "\e942";
+}
+.icon-fa-user-plus:before {
+  content: "\e943";
+}
+.icon-fa-users-gear:before {
+  content: "\e944";
+}
+.icon-fa-user:before {
+  content: "\e945";
+}
+.icon-fa-wallet:before {
+  content: "\e946";
+}
+.icon-fa-wrench:before {
+  content: "\e947";
+}
+.icon-fa-envelope:before {
+  content: "\e948";
+}
+.icon-fa-plus:before {
+  content: "\e949";
+}
+.icon-fa-bell:before {
+  content: "\e94a";
+}
+.icon-fa-angle-right:before {
+  content: "\e94b";
+}
+.icon-fa-angle-left:before {
+  content: "\e94c";
+}
+.icon-fa-clock-rotate-left:before {
+  content: "\e94d";
+}
+.icon-fa-power-off:before {
+  content: "\e94e";
+}
+.icon-fa-user-xmark:before {
+  content: "\e94f";
+}
+.icon-fa-money-bill:before {
+  content: "\e950";
+}
+.icon-fa-chart-area:before {
+  content: "\e951";
+}
+.icon-fa-gem:before {
+  content: "\e952";
+}
+.icon-fa-map:before {
+  content: "\e953";
+}
+.icon-fa-timeline:before {
+  content: "\e954";
+}
+.icon-fa-handshake:before {
+  content: "\e955";
+}
+.icon-fa-hourglass:before {
+  content: "\e956";
+}
+.icon-fa-cloud:before {
+  content: "\e957";
+}
+.icon-fa-unlock:before {
+  content: "\e958";
+}
+.icon-fa-folder-plus:before {
+  content: "\e959";
+}
+.icon-fa-building:before {
+  content: "\e95a";
+}
+.icon-fa-rectangle-list:before {
+  content: "\e95b";
+}
+.icon-fa-check:before {
+  content: "\e95c";
+}
+.icon-fa-circle-notch:before {
+  content: "\e95d";
+}
+.icon-fa-piggy:before {
+  content: "\e95e";
+}
+.icon-fa-arrow-pointer:before {
+  content: "\e95f";
+}
+.icon-fa-trash:before {
+  content: "\e960";
+}
+.icon-fa-hand-holding-dollar:before {
+  content: "\e961";
+}
+.icon-fa-exclamation:before {
+  content: "\e962";
+}

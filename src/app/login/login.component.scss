@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.conteudo-pai {
+  display: flex;
+  width: 100%;
+}
+
+.conteudo-filho{
+  width: 50vw;
+  height: 100vh;
+}
+
+.conteudo-filho2{
+  width: 50%;
+  background-color: #3860F1;
+  height: 100vh;
+}
+
+
+.conteudoModal{
+  background-color: white;
+  height: 450px;
+  max-width: 526px;
+  border-radius: 14px 0px 0px 14px;
+  display: flex;
+  position: relative;
+  top: 17%;
+  box-shadow: 1px 0px 17px 3px rgba(0, 0, 0, 0.4);
+  left: 25%;
+
+  .voltarWeb {
+    color: #3860F1;
+    position: relative;
+    top: 2.5rem;
+    left: 5rem;
+    font-weight: 400;
+  }
+}
+
+.conteudoModal2 {
+  background-color: #3860F1;
+  height: 450px;
+  max-width: 526px;
+  border-radius: 0px 14px 14px 0px;
+  display: flex;
+  position: relative;
+  top: 17%;
+  box-shadow: 1px 0px 17px 3px rgba(0, 0, 0, 0.4);
+
+  .texto-Principal {
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 1.7rem;
+    padding-top: 2rem;
+    font-family: Poppins;
+    font-weight: 700;
+    size: 24px;
+    line-height: 36px;
+  }
+}
+
