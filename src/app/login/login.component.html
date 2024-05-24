@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Controle de Solicitações</title>
+</head>
+  <body>
+    <form  [formGroup]="formulario">
+      <div class="conteudo-pai">
+        <div class="conteudo-filho">
+          <div class="conteudoModal">
+              <span><i class="fa-solid fa-arrow-left"></i><a class="voltarWeb">Voltar ao WebSite</a></span>
+          </div>
+        </div>
+
+        <div class="conteudo-filho2">
+          <div class="conteudoModal2">
+            <span class="texto-Principal">Bem-vindo ao novo sistema de Controle de Solicitações</span>
+              <div>
+                <p-floatLabel class="input12">
+                    <input pInputText formControlName="usuario" />
+                    <label >Usuário</label>
+                </p-floatLabel>
+
+                <p-floatLabel class="input12">
+                    <input pInputText formControlName="senha" />
+                    <label >Senha</label>
+                </p-floatLabel>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </body>
+</html>
